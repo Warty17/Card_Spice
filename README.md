@@ -7,9 +7,9 @@ This mod adds:
 
 Generative AI was not at any point used in the making of the content's concept nor the art.
 
-[jokers](jokers.png)
-[decks](decks.png)
-[extra](extra.png)
+![jokers](jokers.png)
+![decks](decks.png)
+![extra](extra.png)
 
 Way more ideas are in the making, but due to the limitations of Jayd-H's Joker-Forge (https://github.com/Jayd-H/joker-forge) I cannot implement them yet.
 Substancial update is to be made once I figure out how to code in Lua.
