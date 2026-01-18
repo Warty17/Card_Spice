@@ -1,3 +1,5 @@
+# Card Spice
+
 This Balatro mod aims to add many of the ideas I come up with that I think could spice up the gameplay (hence, Card SPICE).
 
 This mod adds:
